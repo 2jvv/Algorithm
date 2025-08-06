@@ -3490,6 +3490,7 @@ int main()
 
 ### 图的深度优先遍历(dfs)
 [AcWing 846. 树的重心 - AcWing](https://www.acwing.com/activity/content/problem/content/909/)
+- 以树的重心为根时，所有子树的大小都不超过整棵树大小的一半。
 
 ```cpp
 #include<iostream>
@@ -7304,21 +7305,4 @@ int main()
     return 0;
 }
 ```
-
-
-
-
-
-# 博弈论
-SG函数
-
-<font style="color:rgb(0, 0, 0);">f(v)=mex{f(u)|u∈child[v]}</font>
-
-<font style="color:rgb(0, 0, 0);">child为后继所有可能出现的状态，v为当前状态</font>
-
-<font style="color:rgb(0, 0, 0);">其中，mex(minimal excludant)是定义在整数集合上的操作。它的自变量是任意整数集合，函数值是不属于该集合的最小自然数。</font>
-
-<font style="color:rgb(0, 0, 0);">mex(A)=min{k|k∈∁</font><font style="color:rgb(0, 0, 0);">N</font><font style="color:rgb(0, 0, 0);">A}</font>
-
-<font style="color:rgb(0, 0, 0);">SG为0为先手手必败态，SG大于0为先手必胜态</font>
 
