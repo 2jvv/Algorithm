@@ -11,14 +11,12 @@
             "id": "075b0814de14bd37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "笔记/比赛总结.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-08-09 07.45.29.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "比赛总结"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-09 07.45.29.excalidraw"
             }
           }
         ]
@@ -153,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/比赛总结.md",
+                "file": "Excalidraw/Drawing 2025-08-09 07.45.29.excalidraw.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "比赛总结 的大纲"
+              "title": "Drawing 2025-08-09 07.45.29.excalidraw 的大纲"
             }
           }
         ],
@@ -182,14 +180,15 @@
   },
   "active": "075b0814de14bd37",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-08-09 07.45.29.excalidraw.md",
+    "笔记/比赛总结.md",
+    "笔记/XCPC_template.md",
     "笔记/题解.md",
     "笔记/algorithm.md",
     "笔记/c++杂记.md",
     "Excalidraw/Drawing 2025-08-11 12.42.30.excalidraw.md",
-    "笔记/比赛总结.md",
     "笔记/深度学习.md",
     "Pasted image 20250809075931.png",
-    "Excalidraw/Drawing 2025-08-09 07.45.29.excalidraw.md",
     "Pasted image 20250809075420.png",
     "图片/Pasted image 20250804153246.png",
     "图片/Pasted image 20250809074652.png",
@@ -218,7 +217,6 @@
     "missing smester.md",
     "大学物理.md",
     "数字逻辑.md",
-    "Excalidraw/大学物理实验.md",
     "图片.zip",
     "笔记/数据结构",
     "笔记/新建文件夹",
